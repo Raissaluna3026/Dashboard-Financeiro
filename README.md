@@ -23,6 +23,18 @@ O dashboard contempla:
 - Receita por tipo de conta
 - Receita por cliente
 
+# 📊 Dashboard - Telas
+
+### Tela inicial
+![Visão Geral](prints/bi0.png)
+
+### Visão Geral
+![Receita por Mês](prints/bi1.png)
+
+### Detalhamento
+![Pagamentos por Tipo](prints/bi2.png)
+
+
 Os prints do dashboard estão disponíveis na pasta `/prints`.
 
 # 🎯 Insights
